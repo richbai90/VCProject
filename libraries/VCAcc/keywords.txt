@@ -1,0 +1,17 @@
+VCAcc	KEYWORD1
+printStatus	KEYWORD2
+connectSensor	KEYWORD2
+initSettings	KEYWORD2
+changeAccRange	KEYWORD2
+changeGyroRange	KEYWORD2
+changeAccRate	KEYWORD2
+changeGyroRate	KEYWORD2
+readValues	KEYWORD2
+getAccX	KEYWORD2
+getAccY	KEYWORD2
+getAccZ	KEYWORD2
+getAccXYZ	KEYWORD2
+getGyroX	KEYWORD2
+getGyroY	KEYWORD2
+getGyroZ	KEYWORD2
+getTemp	KEYWORD2
